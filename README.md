@@ -31,5 +31,5 @@ h1{
 | SN  | Languages  |
 | --- | :--------- |
 | 1   | HTML       |
-| 2   | Css        |
+| 2   | CSS        |
 | 3   | JavaScript |
